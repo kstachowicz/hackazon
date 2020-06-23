@@ -2,8 +2,8 @@
 name: WAF Policy Audit Request
 about: Submit request for auditing WAF policies and review suggestions for modification
 title: "[WAF Policy Audit] - issue title"
-labels: ''
-assignees: ''
+labels: security
+assignees: kstachowicz
 
 ---
 
